@@ -1,0 +1,44 @@
+.color_back, .logo{
+    background-color: #f8f0dd;
+}
+
+.container{
+    background-color: #fdfde2;
+    margin: auto;
+}
+
+.size_img_logo{
+    height: auto;
+    width: auto;
+    max-height: 265px;
+    max-width: 265px;
+    display: flex;
+    display:block;
+}
+
+.nav_text{    
+    font-family: 'Concert One', cursive;
+}
+
+.text_des{
+    font: condensed sans-serif;;
+    color: gray;
+}
+
+.nav_cat{
+    color: #9c997f;
+}
+
+.h3_cat{
+    font-family: 'Bubblegum Sans', cursive;
+    color: #9c997f;
+}
+
+.img-fluid{
+    
+    max-width: 100%;
+    height: auto
+}
+
+
+
